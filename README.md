@@ -6,14 +6,23 @@
 > [!CAUTION]
 > Utilizar con fines educativos :octocat:
 
+<h2>Problema del negocio</h2>
+
+<table><tr><td> 
+Una entidad gubernamental responsable de la gestión de la salud en Argentina y en Colombia enfrenta el desafío de comprender y analizar la propagación del COVID-19 para tomar decisiones informadas y eficaces en la gestión de la pandemia.
+Como científicos de datos, nuestra tarea es analizar los datos relacionados con el COVID-19 y presentar insights a través de visualizaciones que respondan a las siguientes cuestiones: <br>
+<br>
+1. La propagación del Covid-19 en Argentina y en Colombia en comparación con el resto del mundo <br>
+2. Cómo fué el avance de los reporte de nuevos casos diarios lo largo de estos últimos 4 años en Argentina y Colombia. <br>
+3. La evolución del índice de letatidad del Covid-19 en Colombia y en Argentina comparado con los paises con mayores índices de letalidad históricos. <br>
+4. Las características mas relevantes a nivel global en el impacto del índice de letalidad desde una perspectiva demográfica.
+</td></tr></table>
 
 <h2>Stack de tecnologías</h2>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-
 
 
 <h2>Configuración del ambiente</h2>
