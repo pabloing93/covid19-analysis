@@ -39,24 +39,35 @@ Como científicos de datos, nuestra tarea es analizar los datos relacionados con
 <h2>Insights y conclusiones</h2>
 <h3>Insight 1: ¿Cómo ha evolucionado el Covid-19 en Argentina y Colombia en comparación con el impacto observado a nivel global? </h3><br><br>
 
-![image](https://github.com/pabloing93/covid19-analysis/assets/32267303/9d02f9df-8a65-49cb-b0ae-3a6831e6fd40)<br><br>
+![image](https://github.com/pabloing93/covid19-analysis/assets/32267303/9d02f9df-8a65-49cb-b0ae-3a6831e6fd40)
+<br>
+- [x] <b>Conclusión:</b> Apreciamos que la evolución del covid-19 en Argentina y Colombia fué bastante controlada en comparación a los 10 paises con mayor índice de evolución. Sin embargo, comparando Argentina y Colombia entre sí podemos apreciar que Colombia pudo mitigar mucho más la evolución de los contagios en época de pandemia en comparación a Argentina.<br><br>
+
 ![image](https://github.com/pabloing93/covid19-analysis/assets/32267303/4d28ebed-5cfd-4c25-9676-e6584a51ad5d)
-<br><br>
+<br>
+- [x] <b>Conclusión:</b> En cuanto a la evolución de contagios desde el día 0 hasta 4 años después observamos que Argentina y Colombia fueron los paises con menores casos confirmados comparándolos con los TOP 5 paises a nivel mundial <br><br>
+
 <h3>Insight 2: ¿Cuál ha sido la evolución de los nuevos casos diarios reportados de Covid-19 en Argentina y Colombia a lo largo del tiempo?</h3><br><br>
 
 ![image](https://github.com/pabloing93/covid19-analysis/assets/32267303/6b87a9c2-1885-4455-af0a-2b5e00bfbe1a)<br>
-![image](https://github.com/pabloing93/covid19-analysis/assets/32267303/96cb908f-3d7c-400f-b1c2-3f0251e0a48d)<br><br>
+- [x] <b>Conclusión:</b> En la gráfica de Colombia se puede observar un aumento notable de nuevos casos en agosto del 2020, reportando un pico de 80 mil, empezando el 2021 superó los 100 mil casos, posteriormente en el mes de marzo hubo una disminución notable de casos, por debajo de los 50 mil, para julio se reporta un pico de más de 200 mil contagios, entre el mes de septiembre de 2021 y enero de 2022 podemos observar otra disminución muy notable por debajo de los 20 mil casos. El pico más alto de contagios diarios se tiene en febrero del 2022 donde superó los 210 mil casos, posterior a esas fechas no hubo un aumento notable de casos, estuvieron por debajo de los 30 mil. <br><br>
 
+![image](https://github.com/pabloing93/covid19-analysis/assets/32267303/96cb908f-3d7c-400f-b1c2-3f0251e0a48d)<br>
 
+- [x] <b>Conclusión:</b> En la gráfica de Argentina se puede observar un pico de 100 mil contagios en octubre de 2020, para junio de 2021 produce un pico de 240 mil. El mayor registro de contagios diarios es entre enero y febrero de 2022 reportando un pico de 775 mil<br><br>
 
 <h3>Insight 3: ¿Cuál es la evolución del índice de letalidad del Covid-19 en Colombia y Argentina comparado con los paises con los índices históricos más elevados?</h3><br><br>
 
-![image](https://github.com/pabloing93/covid19-analysis/assets/32267303/dffe2e30-d02d-4865-b4b7-1326f2391b8d)
+![image](https://github.com/pabloing93/covid19-analysis/assets/32267303/dffe2e30-d02d-4865-b4b7-1326f2391b8d) <br>
 ![image](https://github.com/pabloing93/covid19-analysis/assets/32267303/de71eee2-1833-4bb7-a59e-e0c374e1f640)
+
+- [x] <b>Conclusión:</b> En mayo de 2020 se reportó un pico en el lethality rate de 4.61 % para Colombia, y 7.79 % en Argentina, teniendo una diferencia entre ambos paises de 3.28 % <br><br>
 
 
 <h3>Insight 4: Desde una perspectiva demográdica ¿cuáles son las características que tienen un mayor impacto en el índice de letalidad de un país?</h3><br><br>
 
 ![image](https://github.com/pabloing93/covid19-analysis/assets/32267303/4a9bf54b-d8f7-40fe-b76f-2faec888142e)
+<br>
+- [x] <b>Conclusión:</b> Según nuestro análisis de importancia, la densidad de la población destaca como más influyente, seguida de la población femenina con un 25% y 24% respectivamente. Esto sugiere que densidad de la población y el número de la población femenina son características relevantes en la incidencia de la letalidad de un país cuando evaluamos el covid-19.
 
 
