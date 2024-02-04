@@ -29,6 +29,11 @@ Como científicos de datos, nuestra tarea es analizar los datos relacionados con
 
 <h2>Obtención de los datos</h2>
 
+Para que nuestras decisiones sean lo más acertadas posibles, tenemos que apoyarnos en información oficial y confiable. <br>
+Nos basamos en dos organizaciones mundiales:
+- **World Health Organization (WHO)**: Nos proveerá información sobre la propagación del covid a nivel mundial.
+- **Population United Nations**: Nos proveeran información demográfica a nivel pais y a nivel mundial.
+
 <h2>EDA: Análisis exploratorio de los datos</h2><br><br>
 
 ![image](https://github.com/pabloing93/covid19-analysis/assets/32267303/acd4496c-59d7-4486-b82c-eb26960df379)
