@@ -34,15 +34,59 @@ Como científicos de datos, nuestra tarea es analizar los datos relacionados con
 Para que nuestras decisiones sean lo más acertadas posibles, tenemos que apoyarnos en información oficial y confiable. <br>
 Nos basamos en dos organizaciones mundiales:
 
- > **World Health Organization (WHO)**: Nos proveerá información sobre la propagación del covid a nivel mundial. <br>
- > **Population United Nations**: Nos proveeran información demográfica a nivel pais y a nivel mundial.
+ > **World Health Organization (WHO)**: Nos proveerá información sobre la propagación del covid a nivel mundial.
+ > <a href="https://www.who.int/" target="blank"> Link a la web oficial </a>. <br>
+ > **United Nations (population)**: Nos proveeran información demográfica a nivel pais y a nivel mundial.
+ > <a href="https://www.un.org/en/" target="blank"> Link a la web oficial </a>.
 
-<h2>EDA: Análisis exploratorio de los datos</h2><br><br>
+<h2>EDA: Análisis exploratorio de los datos</h2>
+
+<h3>Los dataframes con los que vamos a trabajar</h3>
+
+Definiremos los Dataframes y la información que contiene:
+
+**df_covid:** contendrá información de la propagación del covid a nivel mundial respaldada por la WHO. <br><br>
+
+![Captura de pantalla de 2024-02-05 07-06-55](https://github.com/pabloing93/covid19-analysis/assets/32267303/be193dca-933c-4786-baef-e7d2fb64cd6a)
+<br>
+![Captura de pantalla de 2024-02-05 07-07-05](https://github.com/pabloing93/covid19-analysis/assets/32267303/4146be8b-6c96-4ced-a087-f810a61e68b8)
+<br><br>
+
+**df_population:** contendrá información demográfica de todos los paises a nivel mundial, respadalda por UN.
+
+Hacemos un filtro por las columnas de interés:
+
+<table><tr><td> 
+> df_population_limpio = df_population[<br>
+ ['ISO2 Alpha-code', <br>
+  'Total Population, as of 1 July (thousands)',<br>
+  'Male Population, as of 1 July (thousands)',<br>
+  'Female Population, as of 1 July (thousands)',<br>
+  'Population Density, as of 1 July (persons per square km)',<br>
+  'Life Expectancy at Birth, both sexes (years)']<br>
+ ].copy() 
+</td></tr></table>
+
+![Captura de pantalla de 2024-02-05 07-10-33](https://github.com/pabloing93/covid19-analysis/assets/32267303/b4ebb79b-3a7a-4def-b6ec-e6b360d91c9d)
+
+<h3>Análisis exploratorio y limpieza</h3>
+
+<h4>Información del covid</h4>
 
 ![image](https://github.com/pabloing93/covid19-analysis/assets/32267303/acd4496c-59d7-4486-b82c-eb26960df379)
 <br>
+- [x] <b>Observación:</b> Detectamos valores muy grandes y excepcionales cuando analizamos el rate de letalidad del covid. Por lo que procederemos a hacer una limpieza y nos quedaremos con los valores de los quantiles del 0 al 99.<br>
+
 ![image](https://github.com/pabloing93/covid19-analysis/assets/32267303/2b78f6d1-ebc5-4fd4-93f3-fe01faa5d568)
-<br><br>
+- [x] <b>Resultado:</b> de la limpieza previamente aplicada al rate de letalidad lo que nos permitirá trabajar con ésta variable y obtener conclusiones más precisas.
+
+También aplicamos otras técnicas de EDA. Por lo extenso del código los invitamos a revisarlo en detalle en el archivo COVID19_Analysis.ipynb <br>
+Sin embargo listaremos en análisis y las técnicas de tratamiento aplicadas en nuestro código:
+> 1. Tratamiento de NaNs y nulos.
+>  2. Tratamiento de errores tipográficos
+>  3. Conversión de estructuras de datos de las columnas
+>  4. Eliminación de outliers
+>  5. Otros 
 
 <h2>Insights y conclusiones</h2>
 <h3>Insight 1: ¿Cómo ha evolucionado el Covid-19 en Argentina y Colombia en comparación con el impacto observado a nivel global? </h3><br><br>
