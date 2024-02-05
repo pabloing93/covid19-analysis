@@ -31,8 +31,7 @@ Como científicos de datos, nuestra tarea es analizar los datos relacionados con
 
 
 <picture> <img align="right" src="https://img001.prntscr.com/file/img001/bE059CK0TQOKhKqpeYo4CQ.png" width = 250px></picture>
-Para que nuestras decisiones sean lo más acertadas posibles, tenemos que apoyarnos en información oficial y confiable. <br>
-Nos basamos en dos organizaciones mundiales:
+Para que nuestras decisiones sean lo más acertadas posibles, tenemos que apoyarnos en información oficial y confiable. Nos basamos en dos organizaciones mundialmente reconocidas:
 
  > **World Health Organization (WHO)**: Nos proveerá información sobre la propagación del covid a nivel mundial.
  > <a href="https://www.who.int/" target="blank"> Link a la web oficial </a>. <br>
