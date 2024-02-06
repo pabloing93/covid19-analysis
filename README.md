@@ -97,6 +97,8 @@ Sin embargo listaremos en análisis y las técnicas de tratamiento aplicadas en 
 ![image](https://github.com/pabloing93/covid19-analysis/assets/32267303/4d28ebed-5cfd-4c25-9676-e6584a51ad5d)
 <br>
 - [x] <b>Conclusión:</b> En cuanto a la evolución de contagios desde el día 0 hasta 4 años después observamos que Argentina y Colombia fueron los paises con menores casos confirmados comparándolos con los TOP 5 paises a nivel mundial <br><br>
+- [x] <b>Recomendación:</b> Argentina podría considerar analizar el procotolo de Colombia e implementar algunas medidas sugeridas por parte de su organizmo de salud.
+<br><br>
 
 <h3>Insight 2: ¿Cuál ha sido la evolución de los nuevos casos diarios reportados de Covid-19 en Argentina y Colombia a lo largo del tiempo?</h3><br><br>
 
@@ -119,6 +121,7 @@ Sin embargo listaremos en análisis y las técnicas de tratamiento aplicadas en 
 
 ![image](https://github.com/pabloing93/covid19-analysis/assets/32267303/4a9bf54b-d8f7-40fe-b76f-2faec888142e)
 <br>
-- [x] <b>Conclusión:</b> Según nuestro análisis de importancia, la densidad de la población destaca como más influyente, seguida de la población femenina con un 25% y 24% respectivamente. Esto sugiere que densidad de la población y el número de la población femenina son características relevantes en la incidencia de la letalidad de un país cuando evaluamos el covid-19.
+- [x] <b>Conclusión:</b> Según nuestro análisis de importancia, la densidad de la población destaca como más influyente, seguida de la población femenina con un 25% y 24% respectivamente. Esto sugiere que densidad de la población y el número de la población femenina son características relevantes en la incidencia de la letalidad de un país cuando evaluamos el covid-19.<br>
+- [x] <b>Recomendaciones:</b> Con ésta información podemos predecir el índice de letalidad y tomar medidas preventivas en aquellos paises cuya densidad de población y cantidad de población femenina sea más elevado.
 
 
