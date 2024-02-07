@@ -24,10 +24,7 @@ Como científicos de datos, nuestra tarea es analizar los datos relacionados con
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-
-<h2>Configuración del ambiente</h2>
-
-<h2>Obtención de los datos</h2>
+<h2>¿De dónde obtuvimos los datos?</h2>
 
 
 <picture> <img align="right" src="https://img001.prntscr.com/file/img001/bE059CK0TQOKhKqpeYo4CQ.png" width = 250px></picture>
@@ -37,6 +34,8 @@ Para que nuestras decisiones sean lo más acertadas posibles, tenemos que apoyar
  > <a href="https://www.who.int/" target="blank"> Link a la web oficial </a>. <br>
  > **United Nations (population)**: Nos proveeran información demográfica a nivel pais y a nivel mundial.
  > <a href="https://www.un.org/en/" target="blank"> Link a la web oficial </a>.
+
+<h2>Configuración del ambiente</h2>
 
 <h2>EDA: Análisis exploratorio de los datos</h2>
 
@@ -97,6 +96,25 @@ Sin embargo listaremos en análisis y las técnicas de tratamiento aplicadas en 
 ![image](https://github.com/pabloing93/covid19-analysis/assets/32267303/4d28ebed-5cfd-4c25-9676-e6584a51ad5d)
 <br>
 - [x] <b>Conclusión:</b> En cuanto a la evolución de contagios desde el día 0 hasta 4 años después observamos que Argentina y Colombia fueron los paises con menores casos confirmados comparándolos con los TOP 5 paises a nivel mundial <br><br>
+
+<h3>Validemos ésta información con fuentes oficiales</h3>
+
+<p>Como científicos y profesionales de los datos también tenemos la responsabilidad de validar si nuestras conclusiones hasta el momento coinciden con fuentes oficiales</p>
+
+<h4>Argentina</h4>
+
+![Captura de pantalla de 2024-02-07 07-19-14](https://github.com/pabloing93/covid19-analysis/assets/32267303/1d32298c-fcfe-4e29-9d39-0127fb84a361)
+
+Link de la fuente oficial: https://www.who.int/countries/arg/
+
+<h4>Colombia</h4>
+
+![Captura de pantalla de 2024-02-07 07-19-29](https://github.com/pabloing93/covid19-analysis/assets/32267303/248af2e2-8522-45f7-85ba-8f60c4c68d7c)
+
+Link de la fuente oficial: https://www.who.int/countries/col/
+
+- [x] <b>Conclusión:</b> ¡Hasta aquí vamos bien! En términos relativos vemos efectivamente que para Argentina y Colombia nuestros datos coinciden con fuentes oficiales por lo que en términos absolutos (en porcentajes) y en comparación a otros paises asumimos que el resultado también es verídico ya que utilizamos la misma fuente de información y el mismo método de análisis.
+
 - [x] <b>Recomendación:</b> Argentina podría considerar analizar el procotolo de Colombia e implementar algunas medidas sugeridas por parte de su organizmo de salud.
 <br><br>
 
