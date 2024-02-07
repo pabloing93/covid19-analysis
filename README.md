@@ -87,11 +87,15 @@ Sin embargo listaremos en análisis y las técnicas de tratamiento aplicadas en 
 >  5. Otros 
 
 <h2>Insights y conclusiones</h2>
-<h3>Insight 1: ¿Cómo ha evolucionado el Covid-19 en Argentina y Colombia en comparación con el impacto observado a nivel global? </h3><br><br>
+<h3>Insight 1: ¿Cómo ha evolucionado el Covid-19 en Argentina y Colombia en comparación con el impacto observado a nivel global? </h3><br>
+
+<h4>En términos relativos</h4>
 
 ![image](https://github.com/pabloing93/covid19-analysis/assets/32267303/9d02f9df-8a65-49cb-b0ae-3a6831e6fd40)
 <br>
-- [x] <b>Conclusión:</b> Apreciamos que la evolución del covid-19 en Argentina y Colombia fué bastante controlada en comparación a los 10 paises con mayor índice de evolución. Sin embargo, comparando Argentina y Colombia entre sí podemos apreciar que Colombia pudo mitigar mucho más la evolución de los contagios en época de pandemia en comparación a Argentina.<br><br>
+- [x] <b>Conclusión:</b> Apreciamos que la evolución del covid-19 en Argentina y Colombia fué bastante controlada en comparación a los 10 paises con mayor índice de evolución. Sin embargo, comparando Argentina y Colombia entre sí podemos apreciar que Colombia pudo mitigar mucho más la evolución de los contagios en época de pandemia en comparación a Argentina.<br>
+
+<h4>Y en términos absolutos</h4>
 
 ![image](https://github.com/pabloing93/covid19-analysis/assets/32267303/4d28ebed-5cfd-4c25-9676-e6584a51ad5d)
 <br>
@@ -113,7 +117,7 @@ Link de la fuente oficial: https://www.who.int/countries/arg/
 
 Link de la fuente oficial: https://www.who.int/countries/col/
 
-- [x] <b>Conclusión:</b> ¡Hasta aquí vamos bien! En términos relativos vemos efectivamente que para Argentina y Colombia nuestros datos coinciden con fuentes oficiales por lo que en términos absolutos (en porcentajes) y en comparación a otros paises asumimos que el resultado también es verídico ya que utilizamos la misma fuente de información y el mismo método de análisis.
+- [x] <b>Conclusión:</b> ¡Hasta aquí vamos bien! En términos absolutos vemos efectivamente que para Argentina y Colombia nuestros datos coinciden con fuentes oficiales por lo que en términos relativos (en porcentajes) y en comparación a otros paises asumimos que el resultado también es verídico ya que utilizamos la misma fuente de información y el mismo método de análisis.
 
 - [x] <b>Recomendación:</b> Argentina podría considerar analizar el procotolo de Colombia e implementar algunas medidas sugeridas por parte de su organizmo de salud.
 <br><br>
@@ -143,3 +147,4 @@ Link de la fuente oficial: https://www.who.int/countries/col/
 - [x] <b>Recomendaciones:</b> Con ésta información podemos predecir el índice de letalidad y tomar medidas preventivas en aquellos paises cuya densidad de población y cantidad de población femenina sea más elevado.
 
 
+Comparamos a Colombia, Argentina respecto a EEUU para validar nuestra hipótesis...
