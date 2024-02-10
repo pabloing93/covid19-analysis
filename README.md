@@ -71,6 +71,13 @@ Hacemos un filtro por las columnas de interés:
 
 <h4>Información del covid</h4>
 
+> [!CAUTION]
+> Encontramos unos valores extraños en la columna que nos brinda información del rate de letalidad
+
+![Captura de pantalla de 2024-02-10 08-52-06](https://github.com/pabloing93/covid19-analysis/assets/32267303/8d4c331b-777d-43cf-bf8a-77792ef2b341)
+
+<p>Vamos a hacer un gráfico de boxplot a ver si nos ayuda a comprender éste fenómeno</p>
+
 ![image](https://github.com/pabloing93/covid19-analysis/assets/32267303/acd4496c-59d7-4486-b82c-eb26960df379)
 <br>
 - [x] <b>Observación:</b> Detectamos valores muy grandes y excepcionales cuando analizamos el rate de letalidad del covid. Por lo que procederemos a hacer una limpieza y nos quedaremos con los valores de los quantiles del 0 al 99.<br>
