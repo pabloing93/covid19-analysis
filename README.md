@@ -153,5 +153,3 @@ Link de la fuente oficial: https://www.who.int/countries/col/
 - [x] <b>Conclusión:</b> Según nuestro análisis de importancia, la densidad de la población destaca como más influyente, seguida de la población femenina con un 25% y 24% respectivamente. Esto sugiere que densidad de la población y el número de la población femenina son características relevantes en la incidencia de la letalidad de un país cuando evaluamos el covid-19.<br>
 - [x] <b>Recomendaciones:</b> Con ésta información podemos predecir el índice de letalidad y tomar medidas preventivas en aquellos paises cuya densidad de población y cantidad de población femenina sea más elevado.
 
-
-Comparamos a Colombia, Argentina respecto a EEUU para validar nuestra hipótesis...
